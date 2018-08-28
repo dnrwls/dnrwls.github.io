@@ -18,6 +18,7 @@ font-family: 'Hanna', serif;
 }
 h2.post-title{
   font-family: 'Jeju Hallasan', serif;
+  display: inline-block;
 }
 
 h3.post-subtitle{
@@ -39,8 +40,6 @@ h4.contents2{
   line-height: 1.5em;
   text-align: justify;
 }
-
-
 h4.explain{
   font-weight:  bold;
 }
@@ -49,6 +48,13 @@ h5{
   font-weight: bold;
 }
 
+h3.linkto{
+  display: inline;
+  font-family: 'Hanna';
+  font-size: 18px;
+  font-weight: bold;
+  color: #FBCEB1;
+}
  .navbar-custom .nav li a{text-transform:uppercase;font-size:12px;letter-spacing:1px
  }
 
